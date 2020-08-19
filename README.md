@@ -1,5 +1,7 @@
 # Neural-Networks
- Classification of Handwritten Digits 
+## Classification of Handwritten Digits 
+ 
+ 
  Built a complete neural network using Numpy. We will implement all the steps required to build a network - feedforward, loss computation, backpropagation, weight updates etc.
 
 
